@@ -7,4 +7,7 @@ dave
 dave
 dave
 
+foo
+bar
+baz
 This was created with vim!

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+if sudo pacman -Syu; then
+	echo "if statment was true"
+else 
+	echo "if statment was false"
+fi
